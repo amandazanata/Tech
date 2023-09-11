@@ -1,3 +1,5 @@
+# Requisito 0010
+
 from tech_news.database import db
 
 # Requisito 10
